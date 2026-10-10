@@ -17,7 +17,7 @@ Java, Swing, JFreeChart e projeto NetBeans com Apache Ant. A configuração atua
 1. Instale um JDK 21 e o Apache NetBeans.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/Joice-O/APS-2024.git
+   git clone https://github.com/Joice-O/EnergyDash.git
    ```
 3. Abra no NetBeans a pasta `APS - EnergyDash/EnergyDash_final`.
 4. Confira as bibliotecas nas propriedades do projeto. Os arquivos de configuração apontam para JARs na pasta Downloads da máquina de desenvolvimento, que não estão incluídos no repositório.
